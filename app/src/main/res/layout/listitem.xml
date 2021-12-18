@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/RankListItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/thema_Color_3">
+
+    <TextView
+        android:id="@+id/rank"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:hapticFeedbackEnabled="false"
+        android:text="Rank"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:background="@drawable/text_view_edge" />
+
+    <TextView
+        android:id="@+id/nickname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Nick"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:background="@drawable/text_view_edge"/>
+
+    <TextView
+        android:id="@+id/nBackScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="NB"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:background="@drawable/text_view_edge" />
+
+    <TextView
+        android:id="@+id/dwmtScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="DT"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:background="@drawable/text_view_edge" />
+
+    <TextView
+        android:id="@+id/guessNumScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="GN"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:background="@drawable/text_view_edge" />
+
+    <TextView
+        android:id="@+id/totalScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Total"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:background="@drawable/text_view_edge" />
+
+</LinearLayout>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAEEE0"
+    tools:context=".DwmtGameActivity">
+
+    <TextView
+        android:id="@+id/leftView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="남은 시간 / 문제"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/questionView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:text="문제 질문"
+        android:textAlignment="center"
+        android:textSize="26sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/answerLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@+id/answerLayout2"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:id="@+id/dwmtStartBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="gameStart"
+            android:backgroundTint="#F9CF93"
+            android:textColor="#656060"
+            app:strokeColor="#635A5A"
+            app:strokeWidth="1dp"
+            android:text="START"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/answer1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#F9CF93"
+            android:onClick="clickAnswer"
+            android:text="보기 1"
+            android:textColor="#656060"
+            android:visibility="gone"
+            app:strokeColor="#635A5A"
+            app:strokeWidth="1dp"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/answer2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#F9CF93"
+            android:onClick="clickAnswer"
+            android:text="보기 2"
+            android:textColor="#656060"
+            android:visibility="gone"
+            app:strokeColor="#635A5A"
+            app:strokeWidth="1dp"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/metronomeAnswer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="메트로놈 수를 적어주세요"
+            android:inputType="textPersonName"
+            android:textColor="#656060"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:visibility="gone"
+            app:strokeColor="#635A5A"
+            app:strokeWidth="1dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/answerLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="120dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:id="@+id/answer3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#F9CF93"
+            android:onClick="clickAnswer"
+            android:text="보기 3"
+            android:textColor="#656060"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:visibility="gone"
+            app:strokeColor="#635A5A"
+            app:strokeWidth="1dp" />
+
+        <Button
+            android:id="@+id/answer4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#F9CF93"
+            android:onClick="clickAnswer"
+            android:text="보기 4"
+            android:textColor="#656060"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:visibility="gone"
+            app:strokeColor="#635A5A"
+            app:strokeWidth="1dp" />
+
+        <Button
+            android:id="@+id/metronomeBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#F9CF93"
+            android:onClick="onClickMetronomeBtn"
+            android:text="제출하기"
+            android:textColor="#656060"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:visibility="gone"
+            app:strokeColor="#635A5A"
+            app:strokeWidth="1dp" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

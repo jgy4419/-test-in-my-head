@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce6eafe1-87dc-4874-ae80-57d89d84ac09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/migrations/0002_auto_20211206_1410.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/templates/blog/post_all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/media/photo/21/12/butterfly-water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/media/photo/21/12/butterfly-water.thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/media/photo/butterfly-flower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/media/photo/butterfly-water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/media/photo/rape-flower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/mysite/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/templates/photo/album_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/templates/photo/album_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/templates/photo/photo_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/photo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/static/img/lion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/templates/home2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/templates/registration/logged_out.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/templates/registration/passwork_change_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/templates/registration/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/templates/registration/register_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogApplication/ch3/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogApplication/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/blogproject/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/migrations/0002_auto_20211206_1410.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/templates/blog/post_all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/templates/blog/post_archive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/templates/blog/post_archive_day.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/templates/blog/post_archive_month.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/templates/blog/post_archive_year.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/templates/blog/post_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/media/photo/21/12/butterfly-water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/media/photo/21/12/butterfly-water.thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/media/photo/butterfly-flower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/media/photo/butterfly-water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/media/photo/rape-flower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/mysite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/mysite/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/mysite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/templates/photo/album_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/templates/photo/album_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/templates/photo/photo_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/photo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/static/img/lion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/ch3/templates/home2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/photo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/photo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/photo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/photo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/photo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/photo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/photo/ch3/polls/templates/polls/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/photo/ch3/polls/templates/polls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/photo/ch3/polls/templates/polls/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/photo/ch3/polls/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/photo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/selfStudy/ch3/books/templates/books/author_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/selfStudy/ch3/books/templates/books/book_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/selfStudy/ch3/books/templates/books/books_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/selfStudy/ch3/books/templates/books/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/selfStudy/ch3/books/templates/books/publisher_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/Django/selfStudy/ch3/books/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/templates/photo/album_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/templates/photo/album_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/templates/photo/photo_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev/웹/Django/pollApp/ch3/photo/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/templates/blog/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blogApplication/ch3/blog/templates/blog/post_all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/templates/blog/post_archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/templates/blog/post_archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/templates/blog/post_archive_day.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/templates/blog/post_archive_day.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/templates/blog/post_archive_month.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/templates/blog/post_archive_month.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/templates/blog/post_archive_year.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/templates/blog/post_archive_year.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/templates/blog/post_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blog2/ch3/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/blog/templates/delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/blog/templates/delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/blog/templates/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/blog/templates/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/blog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/blog/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/blog/templates/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/blog/templates/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/blog/templates/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/blogproject/blog/templates/update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/blogTest/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/blogTest/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/bloggg/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/bloggg/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/bloggg/ch3/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/bloggg/ch3/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/bloggg/ch3/blog/templates/blog/post_archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/bloggg/ch3/blog/templates/blog/post_archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/bloggg/ch3/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/bloggg/ch3/blog/templates/blog/post_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/bloggg/ch3/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/bloggg/ch3/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/bloggg/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/bloggg/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev/Django/test/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev/Django/test/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mohaemookjiMerge/mohaemookji" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/jeong-gyuyeong/.android/avd/MyADV.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="A_test_in_my_head" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="A_test_in_my_head" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="A_test_in_my_head" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Test_in_my_head" />
+  </component>
+  <component name="ProjectId" id="21KBQm0v4rK157vb827NrY0Ltai" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1637679889990" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="A_test_in_my_head.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce6eafe1-87dc-4874-ae80-57d89d84ac09" name="Default Changelist" comment="" />
+      <created>1637679884414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637679884414</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
